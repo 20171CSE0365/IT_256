@@ -1,0 +1,11 @@
+@import "style.css";
+@import "pseudostyle.css";
+h1,h2,h3{
+color:cyan;
+background-color:rgb(14,179,142);
+font-weight:normal;
+letter-spacing:4px;
+margin-bottom:5px;
+border:5px solid black;
+text-transform:lowercase;
+}
